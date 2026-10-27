@@ -1,18 +1,57 @@
-<!-- Banner / Header dengan Animasi Teks Mengetik ala Retro -->
+<h1 align="center">Hi 👋, I'm Nicholas</h1>
+
+<h3 align="center">Information Systems Student @ Universitas Tarumanagara</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=39FF14¢er=true&vCenter=true&width=700&height=80&lines=PLAYER+1+%3A+NICHOLAS;CLASS+%3A+INFORMATION+SYSTEMS+%40+UNTAR;SPECIALTY+%3A+BACK-END+%26+SYSTEM+ARCHITECT" alt="Typing SVG" />
+  <b>Software Developer & Database Architecture Enthusiast</b>
 </p>
 
-<p align="center">
-  <code><b>STATUS:</b> READY FOR NEW QUEST  |  <b>LEVEL:</b> 21</code>
+<br />
+
+<!-- CONNECT WITH ME SECTION -->
+<h3 align="left">🌐 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:darren.evan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
----
+<br />
 
-### 🕹️ [PLAYER INFO] :: Overview
+<!-- TECH STACK SECTION -->
+<h3 align="left">💻 Tech Stack</h3>
 
-```text
-> Name       : Nicholas
-> Guild      : Universitas Tarumanagara (Information Systems)
-> Main Class : Software Developer & Data Engineer
-> Speciality : Back-End Logic & System Architecture
+<!-- Ikon Grid Berwarna ala Gambar (SkillIcons) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,php,java,js,html,css,mysql,postgres,bootstrap,figma,git,vscode" alt="Tech Stack Icons" />
+</p>
+
+<!-- Text Badges sesuai daftar kodingan kamu -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<br />
+
+<!-- GITHUB STATS SECTION -->
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
