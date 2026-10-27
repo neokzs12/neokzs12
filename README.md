@@ -30,12 +30,12 @@
 <!-- TECH STACK SECTION -->
 <h3 align="left">💻 Tech Stack</h3>
 
-<!-- Ikon Grid Berwarna ala Gambar (SkillIcons) -->
+<!-- Icon Grid (SkillIcons) with Oracle included -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,php,java,js,html,css,mysql,postgres,bootstrap,figma,git,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,php,java,js,html,css,mysql,postgres,oracle,bootstrap,figma,git,vscode" alt="Tech Stack Icons" />
 </p>
 
-<!-- Text Badges sesuai daftar kodingan kamu -->
+<!-- Text Badges including Oracle -->
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -44,10 +44,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
-
-<br />
-
 <!-- GITHUB STATS SECTION -->
 <h3 align="left">📊 GitHub Stats</h3>
 
